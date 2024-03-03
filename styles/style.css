@@ -32,11 +32,11 @@ body {
 }
 
 .header__links-list-item {
-margin: 0 0 0 28px; 
+  margin: 0 0 0 28px; 
 }
 
 .header__links-list-item_no-bullit {
-list-style: none;
+  list-style: none;
 }
 
 .header__link {
@@ -45,7 +45,7 @@ list-style: none;
 }
 
 .header__link_active:focus {
- border-bottom: none;
+  border-bottom: none;
 }
 
 .header__logo {
@@ -253,7 +253,7 @@ list-style: none;
   text-decoration: none;
 }
 
-.about {  
+.about {
   display: grid;
   grid-template-columns: 1fr 2fr;
   justify-content: space-between;
