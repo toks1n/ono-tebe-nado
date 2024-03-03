@@ -1,1 +1,2 @@
-[ono-tebe-nado](https://toks1n.github.io/ono-tebe-nado/)
+By toks1n учебный проект
+https://toks1n.github.io/ono-tebe-nado/
